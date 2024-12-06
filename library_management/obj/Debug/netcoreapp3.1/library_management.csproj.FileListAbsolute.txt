@@ -1,0 +1,13 @@
+C:\Ngoding\UAS Pemrograman\library_management\bin\Debug\netcoreapp3.1\library_management.exe
+C:\Ngoding\UAS Pemrograman\library_management\bin\Debug\netcoreapp3.1\library_management.deps.json
+C:\Ngoding\UAS Pemrograman\library_management\bin\Debug\netcoreapp3.1\library_management.runtimeconfig.json
+C:\Ngoding\UAS Pemrograman\library_management\bin\Debug\netcoreapp3.1\library_management.runtimeconfig.dev.json
+C:\Ngoding\UAS Pemrograman\library_management\bin\Debug\netcoreapp3.1\library_management.dll
+C:\Ngoding\UAS Pemrograman\library_management\bin\Debug\netcoreapp3.1\library_management.pdb
+C:\Ngoding\UAS Pemrograman\library_management\obj\Debug\netcoreapp3.1\library_management.csprojAssemblyReference.cache
+C:\Ngoding\UAS Pemrograman\library_management\obj\Debug\netcoreapp3.1\library_management.AssemblyInfoInputs.cache
+C:\Ngoding\UAS Pemrograman\library_management\obj\Debug\netcoreapp3.1\library_management.AssemblyInfo.cs
+C:\Ngoding\UAS Pemrograman\library_management\obj\Debug\netcoreapp3.1\library_management.csproj.CoreCompileInputs.cache
+C:\Ngoding\UAS Pemrograman\library_management\obj\Debug\netcoreapp3.1\library_management.dll
+C:\Ngoding\UAS Pemrograman\library_management\obj\Debug\netcoreapp3.1\library_management.pdb
+C:\Ngoding\UAS Pemrograman\library_management\obj\Debug\netcoreapp3.1\library_management.genruntimeconfig.cache
